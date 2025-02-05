@@ -77,6 +77,7 @@ OK! Let's get started.
 
 2. (B) Change your working directory to the "challenges" directory that was
    created when you extracted "challenges.tar.gz"
+	- Command: cd ./challenges
 
 3. (B) List the contents of the "challenges" directory.
 
