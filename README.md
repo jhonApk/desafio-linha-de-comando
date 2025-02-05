@@ -71,6 +71,9 @@ OK! Let's get started.
 
 1. (B) Extract the "challenges.tar.gz" archive; you'll need its contents to
    solve some of the challenges.
+	-R - tar -xzvf challenges.tar.gz
+
+
 
 2. (B) Change your working directory to the "challenges" directory that was
    created when you extracted "challenges.tar.gz"
