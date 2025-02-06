@@ -93,6 +93,7 @@ OK! Let's get started.
 	- Command: rm -rf foo
 
 7. (B) Print the text "Hello World".
+	- Command: echo "Hello world"
 
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
 
