@@ -84,6 +84,7 @@ OK! Let's get started.
 		- ls -a (lista o conteudo com pastas ocultas)
 		- ls -l(lista com detalhe de perminssão, tamanho, data)
 4. (B) Create a new directory named "foo".
+	- Command: mkdir foo (cria o diretorio)
 
 5. (I) Create a new directory named "foo/bar/1/2/3"
 
