@@ -80,7 +80,9 @@ OK! Let's get started.
 	- Command: cd ./challenges
 
 3. (B) List the contents of the "challenges" directory.
-
+	- Comand: ls (lista o conteudo)
+		- ls -a (lista o conteudo com pastas ocultas)
+		- ls -l(lista com detalhe de perminssão, tamanho, data)
 4. (B) Create a new directory named "foo".
 
 5. (I) Create a new directory named "foo/bar/1/2/3"
