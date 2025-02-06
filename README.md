@@ -90,6 +90,7 @@ OK! Let's get started.
 	- Command: mkdir -p foo/bar/1/2/3 (cria os diretorios
 )
 6. (B) Remove the directory "foo" and all of its contents
+	- Command: rm -rf foo
 
 7. (B) Print the text "Hello World".
 
