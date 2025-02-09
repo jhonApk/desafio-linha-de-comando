@@ -118,9 +118,11 @@ OK! Let's get started.
 
 15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are
     identical.
-	- Command: diff -s hello.txt hello_copy.txt 
+	- Command: diff -s hello.txt hello_copy.txt
+ 
 16. (B) Concatenate the contents of "hello.txt" and "hello_copy.txt" and store
     the result in a file named "2_hellos.txt".
+	- Command: cat hello.txt hello_copy.txt >> 2_hellos.txt
 
 17. (B) Get the full path of your present working directory ("challenges").
 
