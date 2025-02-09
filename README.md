@@ -72,8 +72,8 @@ OK! Let's get started.
 19. (B) Append some text to the end of "restricted.txt". It's OK to do this in
     2 steps.
 	- Commmand: 
-		1 - chmod 600 restricted.txt ("concede permissão de escrita")
-		2 - echo "texto teste" >> restricted.txt
+		- 1 - chmod 600 restricted.txt ("concede permissão de escrita")
+		- 2 - echo "texto teste" >> restricted.txt
 
 20. (B) Run the "hello_executable" program.
 	- Command: ./hello_executable
@@ -93,6 +93,7 @@ OK! Let's get started.
 	- Command: ./redirect > output.txt 2>&1
 
 24. (B) Get the current date and time.
+	- Command: data
 
 25. (B) Show all of the running processes on your computer.
 
