@@ -137,6 +137,7 @@ OK! Let's get started.
 		1 - chmod 600 restricted.txt ("concede permissão de escrita")
 		2 - echo "texto teste" >> restricted.txt
 20. (B) Run the "hello_executable" program.
+	- Command: ./hello_executable
 
 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
 
