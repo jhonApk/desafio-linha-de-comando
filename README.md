@@ -114,6 +114,7 @@ OK! Let's get started.
 	- Command: cp hello.txt goodbye.txt
 
 14. (B) Rename "goodby.txt" to "hello_copy.txt".
+	- Command: mv goodbye.txt  hello_copy.txt
 
 15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are
     identical.
