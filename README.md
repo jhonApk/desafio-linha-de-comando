@@ -108,6 +108,7 @@ OK! Let's get started.
 	- Command: unlink empty.txt
 
 12. (I) Find a third way to solve challenge 9.
+	- Command: find . -name "empty.txt" -delete
 
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
 
