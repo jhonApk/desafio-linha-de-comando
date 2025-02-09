@@ -141,10 +141,13 @@ OK! Let's get started.
 
 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
 	- command:
-		- 1 - chmod 700 challenge_20 (apos verificar permições)
-		- 2 - ./challenge_20 (executa
+		- 1 - chmod 700 challenge_20 (apos verificar permissões)
+		- 2 - ./challenge_20 (executa)
 
 22. (B) Compile and run "compile_me.c". It's OK to do this in 2 steps.
+	- Command: 
+		- Install gcc (sudo apt install gcc)
+		- gcc compile_me.c
 
 23. (A) Run the "redirect" program and collect all of its output in a file
     named "output.txt".
