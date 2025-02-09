@@ -125,6 +125,7 @@ OK! Let's get started.
 	- Command: cat hello.txt hello_copy.txt >> 2_hellos.txt
 
 17. (B) Get the full path of your present working directory ("challenges").
+	- Command: navegue com cd ./challenges e use o comando  pwd 
 
 18. (B) List the contents of the "challenges" directory (like challenge 3), but
     show the permissions for each file.
