@@ -96,6 +96,7 @@ OK! Let's get started.
 	- Command: echo "Hello world"
 
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
+	- Command: echo "Hello World" > hello.txt && printf "Hello World" > hello.txt
 
 9. (B) Create an empty file named "empty.txt"
 
