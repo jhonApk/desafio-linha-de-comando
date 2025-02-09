@@ -96,6 +96,7 @@ OK! Let's get started.
 	- Command: data
 
 25. (B) Show all of the running processes on your computer.
+	- Command: top
 
 26. (B) Show the number of processors/cores in your computer.
 
