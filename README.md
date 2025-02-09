@@ -111,6 +111,7 @@ OK! Let's get started.
 	- Command: find . -name "empty.txt" -delete
 
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
+	- Command: cp hello.txt goodbye.txt
 
 14. (B) Rename "goodby.txt" to "hello_copy.txt".
 
