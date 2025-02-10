@@ -117,6 +117,7 @@ OK! Let's get started.
 	- Command: diff greeting1.txt greeting2.txt
 
 32. (I) Print "Hello", then wait 5 seconds, then print "world!".
+	- Command: echo "Hello" && sleep 5 && echo "World"
 
 33. (I) Create a 1MB file full of zeros.
 
