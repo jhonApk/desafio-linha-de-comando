@@ -126,6 +126,7 @@ OK! Let's get started.
 	- Command: dd if=/dev/urandom of=random_file bs=2048 count=1000
 
 35. (I) Count the number of lines in README.txt.
+	- Command: wc -l README.txt
 
 36. (B) Display the contents of README.txt in reverse (last line first).
 
