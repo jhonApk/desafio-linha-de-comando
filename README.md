@@ -120,8 +120,10 @@ OK! Let's get started.
 	- Command: echo "Hello" && sleep 5 && echo "World"
 
 33. (I) Create a 1MB file full of zeros.
+	- Command: dd if=/dev/zero bs=1024 count=1024  | tr '\0' '0' > file_zeros
 
 34. (I) Create a 2MB file full of random data.
+	- Command: dd if=/dev/urandom of=random_file bs=2048 count=1000
 
 35. (I) Count the number of lines in README.txt.
 
