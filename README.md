@@ -135,6 +135,7 @@ OK! Let's get started.
 	- Command: head people.csv | cut -d , -f 2
 
 38. (A) Count the number of unique last names in people.csv.
+	- Command: cut -d , -f 2 people.csv | sort | uniq | wc -l
 
 39. (A) Did you accidentally count the CSV header in the previous challenge?
 
