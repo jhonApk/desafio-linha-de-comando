@@ -153,6 +153,7 @@ OK! Let's get started.
 	- Command: cut -d , -f 4 people.csv | sort | uniq -c | grep -i "josiah"
 
 43. (I) Count the number of files (not directories) in the "challenges" directory .
+	- Command: find challenges -type f | wc -l 
 
 44. (I) Count the number of subdirectories in the "challenges" directory.
 
