@@ -112,7 +112,7 @@ OK! Let's get started.
 	- Command: head -n 25 people.csv
 
 30. (B) Print the last 25 lines of people.csv.
-
+	- Command: tail -n 25 people.csv
 31. (I) Display just the differences between greeting1.txt and greeting2.txt
 
 32. (I) Print "Hello", then wait 5 seconds, then print "world!".
