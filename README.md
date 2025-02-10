@@ -109,6 +109,7 @@ OK! Let's get started.
 	- Command: grep -r "You found the needle in the haystack!"
 
 29. (B) Print the first 25 lines of people.csv.
+	- Command: head -n 25 people.csv
 
 30. (B) Print the last 25 lines of people.csv.
 
