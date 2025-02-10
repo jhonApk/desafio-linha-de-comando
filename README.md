@@ -174,8 +174,11 @@ OK! Let's get started.
 49. (A) Execute this challenge in exactly 2 steps
 
     1) (B) Create an empty file named "supercalifragilisticexpialidocious.txt".
+	- Command: touch supercalifragilisticexpialidocious.txt
+
     2) (A) Remove "supercalifragilisticexpialidocious.txt". Your command may
            only use a maximum 5 total characters (no wildcards or globs).
+	- Command: não encontrei como resolver 
 
 50. (A) Create a set of empty files. Each file has a name in the form "L-N.txt"
     where L is a letter and N is a number. Valid letters are a,b,c, while valid
