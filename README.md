@@ -99,6 +99,7 @@ OK! Let's get started.
 	- Command: top
 
 26. (B) Show the number of processors/cores in your computer.
+	- Command: nproc
 
 27. (B) Find out what version of the Linux kernel is currently running.
 
