@@ -106,6 +106,7 @@ OK! Let's get started.
 
 28. (B) Find the file in the "bunch_of_files/" directory that contains the string:
     "You found the needle in the haystack!"
+	- Command: grep -r "You found the needle in the haystack!"
 
 29. (B) Print the first 25 lines of people.csv.
 
