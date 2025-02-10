@@ -166,6 +166,7 @@ OK! Let's get started.
 	- command: usando comando com grep -lr e xargs mas não consegui resolver 
 
 47. (A) Transform people.csv from ',' delimited to '|' delimited and save the result in people_pipe.csv.
+	- Command: cat people.csv | tr "," "|" > people_pipe.csv
 
 48. (A) Find all of the files in "bunch_of_files/" that are duplicates of "file001.rand".
 
