@@ -132,6 +132,7 @@ OK! Let's get started.
 	- Command: tac README.txt
 
 37. (I) Display all of the last names in people.csv.
+	- Command: head people.csv | cut -d , -f 2
 
 38. (A) Count the number of unique last names in people.csv.
 
