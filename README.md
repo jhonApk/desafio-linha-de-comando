@@ -141,6 +141,7 @@ OK! Let's get started.
 	- command: tail  +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
 
 40. (A) There's a second way to exclude the CSV header from your count. Find it.
+	- Command: sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
 
 41. (A) Now that you've found two ways to correctly count the number of unique
     last names in people.csv, can you prove whether or not one is more efficient
