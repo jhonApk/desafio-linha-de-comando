@@ -169,6 +169,7 @@ OK! Let's get started.
 	- Command: cat people.csv | tr "," "|" > people_pipe.csv
 
 48. (A) Find all of the files in "bunch_of_files/" that are duplicates of "file001.rand".
+	- Command: fdupes bunch_of_files (necessario instalar o fdupes)
 
 49. (A) Execute this challenge in exactly 2 steps
 
