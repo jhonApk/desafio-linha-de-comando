@@ -129,6 +129,7 @@ OK! Let's get started.
 	- Command: wc -l README.txt
 
 36. (B) Display the contents of README.txt in reverse (last line first).
+	- Command: tac README.txt
 
 37. (I) Display all of the last names in people.csv.
 
