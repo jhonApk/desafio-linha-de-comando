@@ -158,6 +158,7 @@ OK! Let's get started.
 44. (I) Count the number of subdirectories in the "challenges" directory.
 
 45. (I) Remove all files with "deleteme" in the name.
+	- Command: ls -lR | grep "^d" | wc -l
 
 46. (I) In challenge 28 you found a file. Replace the string "You found the
     needle in the haystack!" with "The needle has been removed."
