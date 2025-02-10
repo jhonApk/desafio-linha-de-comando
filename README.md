@@ -146,6 +146,8 @@ OK! Let's get started.
 41. (A) Now that you've found two ways to correctly count the number of unique
     last names in people.csv, can you prove whether or not one is more efficient
     (faster) than the other?
+	- Command: Para saber o tempo de cara um usamos o "time"
+		- time sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
 
 42. (A) Count the number of people with the first name "Josiah" in people.csv.
 
