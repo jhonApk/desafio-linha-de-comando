@@ -138,6 +138,7 @@ OK! Let's get started.
 	- Command: cut -d , -f 2 people.csv | sort | uniq | wc -l
 
 39. (A) Did you accidentally count the CSV header in the previous challenge?
+	- command: tail  +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
 
 40. (A) There's a second way to exclude the CSV header from your count. Find it.
 
